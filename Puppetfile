@@ -57,5 +57,7 @@ github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 
+github "vagrant"
+github "imagemagick"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
