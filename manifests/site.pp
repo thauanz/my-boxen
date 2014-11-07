@@ -96,3 +96,7 @@ class { 'vagrant':
   version => '1.6.5',
   completion => true
 }
+
+vagrant::plugin { 'vagrant-librarian-puppet':
+  version => "0.7.1"
+}
